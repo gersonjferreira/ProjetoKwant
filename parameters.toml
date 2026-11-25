@@ -1,0 +1,11 @@
+[system]
+# Numbers of lattice sites in the horizontal and vertical directions.
+length = 40
+width = 30
+
+# Width of each centered lead, in lattice sites.
+lead_width = 10
+
+# Nearest-neighbor hopping and Fermi energy, in the same energy units.
+hopping = 1.0
+energy = 0.8
