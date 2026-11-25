@@ -1,0 +1,68 @@
+{
+  "system": {
+    "num_sites": 0,
+    "bounds": null
+  },
+  "leads": {
+    "lead_0": {
+      "num_sites": 91,
+      "direction": "vertical",
+      "periodicity": 7,
+      "x_range": [
+        21,
+        27
+      ],
+      "y_range": [
+        0,
+        12
+      ],
+      "width_x": 7,
+      "width_y": 13
+    },
+    "lead_1": {
+      "num_sites": 91,
+      "direction": "vertical",
+      "periodicity": 7,
+      "x_range": [
+        41,
+        47
+      ],
+      "y_range": [
+        19,
+        31
+      ],
+      "width_x": 7,
+      "width_y": 13
+    },
+    "lead_2": {
+      "num_sites": 91,
+      "direction": "vertical",
+      "periodicity": 7,
+      "x_range": [
+        0,
+        6
+      ],
+      "y_range": [
+        18,
+        30
+      ],
+      "width_x": 7,
+      "width_y": 13
+    },
+    "lead_3": {
+      "num_sites": 91,
+      "direction": "horizontal",
+      "periodicity": 7,
+      "x_range": [
+        18,
+        30
+      ],
+      "y_range": [
+        32,
+        38
+      ],
+      "width_x": 13,
+      "width_y": 7
+    }
+  }
+}
